@@ -1,5 +1,8 @@
 package com.niit.Cargo.model;
 
+import javax.persistence.Entity;
+
+@Entity
 public class CartItem {
 	int cartid;
 String productname;

@@ -3,6 +3,7 @@
 	<name>Cargo</name>
 	<comment></comment>
 	<projects>
+		<project>Ewayhome</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

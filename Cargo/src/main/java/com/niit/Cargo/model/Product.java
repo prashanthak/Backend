@@ -1,5 +1,8 @@
 package com.niit.Cargo.model;
 
+import javax.persistence.Entity;
+
+@Entity
 public class Product {
 int productid;
 String name;

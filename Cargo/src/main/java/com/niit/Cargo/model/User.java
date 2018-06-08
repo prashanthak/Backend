@@ -1,6 +1,8 @@
 package com.niit.Cargo.model;
 
+import javax.persistence.Entity;
 
+@Entity
 public class User {
 	String mailid;
 String phonenumber;
